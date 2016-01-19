@@ -2,6 +2,7 @@
 #
 # Tony Scelfo
 # scelfo@gmail.com
+# https://github.com/scelfo/garagemate
 #
 # Use an attached android device running GarageMate4.0 to open a garage door
 # using the GarageMate hardware available at https://bluemate.com.
