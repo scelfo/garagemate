@@ -55,7 +55,7 @@ function click_garage_mate_button {
 # This is the ID of the attached android device. Get these IDs by running
 # "adb devices".  Specifying an ID allows this script to work if more than one
 # device is plugged in.
-ANDROID_ID="06df6dfc"
+ANDROID_ID="ZX1G223BJR"
 
 # Gather some information about the screen size of the device.
 dimension=$(adb -s ${ANDROID_ID} shell wm size | grep -w "[0-9]*x[0-9]*" -o)
