@@ -17,6 +17,9 @@
 # This script uses Android Debug Bridge:
 # http://developer.android.com/tools/help/adb.html
 
+# Exit as soon as an error occurs.
+set -e
+
 # This is the overall workflow to click the GarageMate button on an attached
 # android device. Helper functions are used to make the bash script readable.
 # This method is called from the bottom of the file.
